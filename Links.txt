@@ -1,0 +1,24 @@
+https://www.coursera.org/learn/introduction-git-github
+
+https://matlabacademy.mathworks.com/
+
+Activity:
+V = K*w + i*R + L*di/dt
+T = K*i - b*w - J*dw/dt
+
+ 
+
+di/dt = 1/L * (V - i*R - K*w)
+dw/dt = 1/J * (T - K*i - b*w)
+
+ 
+
+i = integral{1/L * (V - i*R - K*w)}
+w = integral {1/J * (T - K*i - b*w)}
+
+http://ctms.engin.umich.edu/CTMS/index.php?example=CruiseControl&section=SystemModeling
+
+https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
+
+
+https://rise.articulate.com/share/0JSLzjMM53nBglbIlsi8gpNUEENBzonZ#/lessons/uEsSz95bhFAc1JADKMttwDvJe8DPh5ek
